@@ -6,7 +6,7 @@ Maybe oh my zsh work slowly in your computer and you don't like your prompt. try
 
 ## Download the Repo
 
-Move file `.bash_prompt` in the same route of you `.bashrc` or `.zshrc`
+Move file `.bash_prompt` in the same route of your `.bashrc` or `.zshrc`
 
 ## Or  Create file `.bash_prompt`.
 
