@@ -1,4 +1,4 @@
-Maybe oh my zsh work slowly in your computer and dont like you prompt. try this. It's useful for me 😁.
+Maybe oh my zsh work slowly in your computer and you don't like your prompt. try this. It's useful for me 😁.
 
 ![Screenshot 2022-02-02 at 17 36 14](https://user-images.githubusercontent.com/38573357/152196730-93a67eda-0e49-4cf9-b985-e7930d7dce2a.png)
 
